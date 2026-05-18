@@ -1,0 +1,8 @@
+gymnasium
+numpy
+torch
+pandas
+tqdm
+stable-baselines3
+tensorboard
+scipy
