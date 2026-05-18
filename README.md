@@ -51,6 +51,3 @@ To evaluate 16x16 curriculum models:
 ```bash
 python evaluate_chapter4.py
 ```
-
-## License
-This project is for academic and research purposes.
